@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LOTR</string>
+    <string name="this_is_where_the_story_of_a_hobbit_begins">This is where the story of a hobbit begins</string>
+    <string name="shall_we_enter_the_hobbit_hole">Shall we enter the hobbit hole?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="todo">TODO</string>
+</resources>
